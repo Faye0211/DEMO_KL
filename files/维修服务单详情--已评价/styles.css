@@ -1334,3 +1334,37 @@
   width:157px;
   white-space:nowrap;
 }
+#u877_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:227px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:25px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u877 {
+  position:absolute;
+  left:65px;
+  top:592px;
+  width:227px;
+  height:40px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u878 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:223px;
+  word-wrap:break-word;
+}
